@@ -1,0 +1,25 @@
+/*Datatables size for horizontal scrolling*/
+div.dataTables_wrapper {
+    width: 123%;
+    margin: 0 auto;
+}
+
+/*Position of the sticky table header*/
+table.dataTable.fixedHeader-floating {
+    padding-top: 50px;
+}
+
+/*Class of the datatables header*/
+.capitalize_header {
+	text-transform: capitalize;
+}
+
+/*Manage the width of the dropdown menu*/
+ul.dt-button-collection.dropdown-menu.four-column {
+	width: 1080px;
+}
+
+/*Change the table font-size*/
+th, tr {
+	font-size: 13px;
+}

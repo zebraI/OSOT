@@ -1,0 +1,2 @@
+host_name,host_site_code,site_acquisition_lead,thinxtra_site_id,site_name,state,lat_decimal_degrees,lon_decimal_degrees,country,general_comments,acquisition_fees
+host_test12,host_site_code_test4,maxime.arbez@thinxtra.com,12345797,site_name_test4,NSW,7.28,7.28,Australia,test_general_comments,text

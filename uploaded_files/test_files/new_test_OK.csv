@@ -1,0 +1,8 @@
+host_name,host_site_code,site_acquisition_lead,thinxtra_site_id,site_name,state,lat_decimal_degrees,lon_decimal_degrees,country,general_comments,acquisition_fees
+host_test2,host_site_code_test2,maxime.arbez@thinxtra.com,1234581,site_name_test2,NSW,98.86,98.86,Australia,test_general_comments,1
+host_test3,host_site_code_test3,maxime.arbez@thinxtra.com,1234580,site_name_test3,NSW,56.98,56.98,Australia,test_general_comments,2
+host_test4,host_site_code_test4,maxime.arbez@thinxtra.com,1234579,site_name_test4,NSW,7.28,7.28,Australia,test_general_comments,3
+host_test5,host_site_code_test5,maxime.arbez@thinxtra.com,1234578,site_name_test5,NSW,98.86,98.86,Australia,test_general_comments,4
+host_test6,host_site_code_test6,maxime.arbez@thinxtra.com,1234577,site_name_test6,NSW,56.98,56.98,Australia,test_general_comments,5
+host_test7,host_site_code_test7,maxime.arbez@thinxtra.com,1234576,site_name_test7,NSW,7.28,7.28,Australia,test_general_comments,6
+host_test8,host_site_code_test8,maxime.arbez@thinxtra.com,1234575,site_name_test8,NSW,98.86,98.86,Australia,test_general_comments,7

@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body {
+	padding-top: 50px;
+}
+
+/*Styling table row link*/
+tr[data-href]:focus,
+tr[data-href]:hover { 
+	cursor: pointer;
+	color : #262626;
+	text-decoration : none;
+	background-color: #f5f5f5;
+}
+
+tr[data-href]:active { 
+	color: #337ab7
+}
+
+/*Hiding button select all/deselect all in column_field (search page)*/
+#column_field_div > div > div > div > div.btn-block {
+	display : none;
+}
+
+/*Styling forms (for the required fields)*/
+.required label:after {
+    color: #e32;
+    content: ' *';
+    display:inline;
+}
+
+
+/* ----------Glyphicons into fields setting------------ */
+/*Enable absolute positioning */
+.inner-addon {
+  position: relative;
+}
+
+/*Style glyph */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding-top: 33px;
+  padding-right: 33px;
+}
+
+/*Align glyph */
+.right-addon .glyphicon { right: 0px;}
+
+/*Add padding  */
+.right-addon input { padding-right: 30px; }
