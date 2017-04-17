@@ -1,0 +1,2 @@
+reporting.js = option about datatables
+Change the size of the column visibility button list (reporting module) :  styles/datatables.css --> Look for "ul.dt-button-collection.dropdown-menu.four-column" --> Change the width parameter
