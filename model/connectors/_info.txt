@@ -1,0 +1,1 @@
+db_saving is using mysqldump-secure module (installed on server) run by a cron task
